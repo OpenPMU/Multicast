@@ -1,0 +1,6 @@
+{
+	"UDP_IP_in": "127.0.0.1",
+	"UDP_PORT_in": 48001,
+	"UDP_IP_out": "127.0.0.1",
+	"UDP_PORT_out": 48555
+}
